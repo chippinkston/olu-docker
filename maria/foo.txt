@@ -1,0 +1,7 @@
+foo blah blah blah
+
+and this is some new text.
+this is version 1.2
+
+now this is 1.3 new changes.
+
